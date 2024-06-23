@@ -1,6 +1,5 @@
 - 👋 Hi, I’m @Quasqo
-- 👀 I’m interested in playing & codding
-- 💞️ I’m looking to collaborate on ...
+- 👀 I’m interested in playing & programming
 - 😄 Pronouns: he/him
 
 <!---
